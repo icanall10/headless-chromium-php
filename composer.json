@@ -28,7 +28,7 @@
   "require": {
     "php": ">=7.0",
 
-    "symfony/process": "^3|^4|^5",
+    "symfony/process": "^2|^3|^4|^5",
     "wrench/wrench": "^2.0",
     "symfony/filesystem": "^3|^4|^5",
     "psr/log": "^1.0",
