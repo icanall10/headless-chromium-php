@@ -1,5 +1,5 @@
 {
-  "name": "chrome-php/chrome",
+  "name": "icanall10/headless-chromium-php",
   "description": "Instrument headless chrome/chromium instances from php",
   "type": "library",
   "keywords": ["chrome", "chromium", "crawl", "browser", "headless", "screenshot", "pdf"],
